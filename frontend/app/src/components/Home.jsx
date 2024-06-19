@@ -1,5 +1,4 @@
 import React from 'react'
-import Search from './Search'
 import BookSelection from './BookSelection';
 
 const Hero = () => {
@@ -7,7 +6,7 @@ const Hero = () => {
     <div className='p-5 flex flex-col gap-5'>
       <div className='w-full h-full flex flex-row justify-center'>
         <div>
-          <h1 className='text-[#335C6E] font-bold text-xl lg:text-2xl uppercase'>
+          <h1 className='text-[#28B8B8] font-bold text-xl lg:text-2xl uppercase'>
             Student Assignments
           </h1>
         </div>
