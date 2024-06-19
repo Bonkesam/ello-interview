@@ -19,7 +19,7 @@ const GET_BOOKS = gql`
       author
       coverPhotoURL
       readingLevel
-      # Add any other relevant fields
+      
     }
   }
 `;
